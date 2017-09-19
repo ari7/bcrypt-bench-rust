@@ -1,0 +1,7 @@
+[package]
+name = "bcrypt-bench-rust"
+version = "0.1.0"
+authors = ["ari7 <ari7even@gmail.com>"]
+
+[dependencies]
+bcrypt = "*"
